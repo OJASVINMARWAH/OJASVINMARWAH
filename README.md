@@ -27,36 +27,33 @@
 <!-- ABOUT ME SECTION -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-```python
-class OjasvinMarwah:
-    def __init__(self):
-        self.name        = "Ojasvin Marwah"
-        self.location    = "Patiala, Punjab, India 🇮🇳"
-        self.university  = "Thapar Institute of Engineering & Technology"
-        self.degree      = "B.E. Computer Engineering"
-        self.cgpa        = 9.23
-        self.role        = ["Data Analyst Intern @ Bold Analytics",
-                            "Ex Data Analyst Intern @ BlueStock FinTech"]
+Hey! I'm **Ojasvin** — a Computer Engineering student at **Thapar Institute of Engineering & Technology** with a love for making data actually *mean* something.
 
-    def current_focus(self):
-        return [
-            "📊 Building scalable data pipelines & automation workflows",
-            "🤖 Exploring AI Agents & workflow automation with n8n",
-            "🧠 Deep-diving into NLP & Computer Vision",
-            "🔭 Research: PV Fault Detection using CNN (97.08% accuracy)",
-        ]
+I spend my time building pipelines that automate the boring stuff, digging into datasets to find patterns that matter, and occasionally breaking things in the name of experimentation. Currently interning at **Bold Analytics**, working on AI-powered B2B workflows — and before that, I processed **600K+ records** at **BlueStock FinTech** without losing my mind (mostly).
 
-    def fun_facts(self):
-        return [
-            "🎤 Ex-President, Thapar Dera Bassi Toastmasters Club",
-            "🎨 Head of Design for Backslash & Rotaract",
-            "🏆 Hackathon Finalist – Hack4Help Indian-Israeli Hackathon",
-            "📈 Processed 600K+ records as a Data Analyst intern",
-        ]
+Outside of data, I've led a **Toastmasters chapter**, headed design for two clubs, and shipped projects ranging from **VR classrooms** to **solar fault detectors**. I like building things that are equal parts functional and interesting.
 
-me = OjasvinMarwah()
-print("Let's build something amazing together! 🚀")
-```
+<table>
+<tr>
+<td>
+
+**🎯 Currently working on**
+- Scalable analytics & automation @ Bold Analytics
+- AI Agents with n8n
+- CNN research for PV fault detection *(97.08% acc)*
+
+</td>
+<td>
+
+**⚡ Quick facts**
+- 📍 Patiala, Punjab, India
+- 🎓 CGPA: **9.23 / 10**
+- 🏆 Hackathon Finalist — Hack4Help
+- 🎤 Ex-Toastmasters Club President
+
+</td>
+</tr>
+</table>
 
 ---
 
