@@ -1,55 +1,34 @@
+# 🚀 Ojasvin Marwah
+
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ojasvin%20Marwah&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=60&descSize=20&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:312E81,100:7C3AED&text=Ojasvin%20Marwah&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Data%20Analyst%20•%20Software%20Developer&descAlignY=60"/>
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=600&lines=🔍+Turning+raw+data+into+real+decisions;🤖+Automating+workflows+%26+building+pipelines;📊+Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;🧠+ML+%7C+NLP+%7C+Computer+Vision+explorer;🚀+9.23+CGPA+%40+Thapar+University)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojasvin-marwah-491900286/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarwah_be23@thapar.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_HERE)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_HERE)
-
-<br/>
-
-<!-- PROFILE VIEWS & FOLLOWERS -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=a78bfa&labelColor=1a1a2e)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-powered+Products;Turning+Data+into+Insights;Computer+Vision+%7C+LLMs+%7C+Automation;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<!-- ABOUT ME SECTION -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-
-Hey! I'm **Ojasvin** — a Computer Engineering student at **Thapar Institute of Engineering & Technology** with a love for making data actually *mean* something.
-
-I spend my time building pipelines that automate the boring stuff, digging into datasets to find patterns that matter, and occasionally breaking things in the name of experimentation. Currently interning at **Bold Analytics**, working on AI-powered B2B workflows — and before that, I processed **600K+ records** at **BlueStock FinTech** without losing my mind (mostly).
-
-Outside of data, I've led a **Toastmasters chapter**, headed design for two clubs, and shipped projects ranging from **VR classrooms** to **solar fault detectors**. I like building things that are equal parts functional and interesting.
+## 🌌 About Me
 
 <table>
 <tr>
-<td>
+<td width="55%">
 
-**🎯 Currently working on**
-- Scalable analytics & automation @ Bold Analytics
-- AI Agents with n8n
-- CNN research for PV fault detection *(97.08% acc)*
+Hi 👋 I'm **Ojasvin Marwah**, a Computer Engineering student passionate about **Artificial Intelligence, Data Engineering, Machine Learning and Full-Stack Development**.
+
+- 🔭 Building AI-powered products
+- 🤖 Exploring LLMs, Agents & Automation
+- 📊 Love transforming messy data into useful insights
+- 🏆 Hackathon Finalist
+- 🎤 Former Toastmasters Club President
 
 </td>
-<td>
 
-**⚡ Quick facts**
-- 📍 Patiala, Punjab, India
-- 🎓 CGPA: **9.23 / 10**
-- 🏆 Hackathon Finalist — Hack4Help
-- 🎤 Ex-Toastmasters Club President
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320">
 
 </td>
 </tr>
@@ -57,196 +36,95 @@ Outside of data, I've led a **Toastmasters chapter**, headed design for two club
 
 ---
 
-<!-- GITHUB STATS -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Stats
+# ⚡ Tech Arsenal
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OJASVINMARWAH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OJASVINMARWAH&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,express,fastapi,mongodb,mysql,git,github,docker,aws,opencv,tensorflow,pytorch,vscode,postman"/>
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
-
-</div>
+</p>
 
 ---
 
-<!-- TECH STACK -->
-## 🛠️ Tech Stack & Tools
+# 🚀 Featured Projects
 
-<div align="center">
-
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-### 📊 Data & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-### 🤖 ML / AI
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### ⚙️ Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
+| Project | Highlights |
+|---------|------------|
+| 🛒 **Kasparro** | AI Shopping Assistant with Agentic AI |
+| 🏥 **CareSync** | AI Rehabilitation Platform |
+| ☀️ **Solar Fault Detection** | CNN achieving 97.08% accuracy |
+| 🎯 **Human Action Recognition** | Real-time action detection |
 
 ---
 
-<!-- EXPERIENCE SECTION -->
-## 💼 Experience
+# 📊 GitHub Dashboard
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
 
-### 🔵 Bold Analytics
-**Data Analyst Intern** *(Apr 2026 – Present)*
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=OJASVINMARWAH&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-> Building a SaaS-based B2B AI platform for workflow & business intelligence optimization.
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OJASVINMARWAH&layout=compact&theme=tokyonight&hide_border=true"/>
 
-- 🏗️ Data structuring & automation workflows
-- 📡 Scalable analytics integration
-- 🤖 AI-powered representational systems
+</p>
 
-</td>
-<td width="50%">
+<p align="center">
 
-### 💹 BlueStock FinTech
-**Data Analyst Intern** *(Jan 2026 – Mar 2026)*
+<img src="https://streak-stats.demolab.com?user=OJASVINMARWAH&theme=tokyonight&hide_border=true"/>
 
-> End-to-end data engineering & automation across 30+ states/UTs.
-
-- 🔄 Automated Python pipelines — **600K+ records**
-- ✅ Data validation & exception handling
-- 🔌 REST API development & testing
-- 📉 Reduced manual processing effort significantly
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
-<!-- PROJECTS SECTION -->
-## 🚀 Featured Projects
+# 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
-| Project | Description | Tech Stack | Links |
-|--------|-------------|------------|-------|
-| 🏃 **AI Human Action Recognition** | Real-time action recognition at 25–30 FPS on CPU with temporal smoothing | Python · PyTorch · OpenCV · MediaPipe · ReactJS | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_HERE) |
-| 🏥 **CARESYNC** | NLP-powered rehab assistant — Hack4Help 🏆 Finalist | Python · NLP · HuggingFace · Streamlit | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_HERE) |
-| 🎓 **Gen-AI VR Classroom** | Immersive AI learning platform with voice-based doubt solving | Python · GenAI · WebXR · JavaScript | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_HERE) |
-| ☀️ **PV Fault Detection CNN** | Solar panel fault detection with **97.08% accuracy** | Python · CNN · PyQt5 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_HERE) |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OJASVINMARWAH&theme=tokyo-night&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-<!-- ACHIEVEMENTS -->
-## 🏆 Achievements & Certifications
+# 🏆 GitHub Achievements
 
-<div align="center">
+<p align="center">
 
-| 🏅 Achievement | Details |
-|---|---|
-| 🎓 **Academic Excellence** | CGPA: **9.23 / 10** at Thapar Institute of Engineering & Technology |
-| 📜 **Class XII** | **97%** – K.R. Mangalam World School, New Delhi |
-| 🏆 **Hackathon Finalist** | Hack4Help Indian-Israeli Hackathon – CARESYNC |
-| 📊 **Deloitte Simulation** | Data Analytics – Tableau & Power BI |
-| 🤖 **Workflow Automation** | AI Agents with n8n – Certified |
-| 🎤 **Toastmasters President** | Led Thapar Dera Bassi Toastmasters Club (Dec 2023 – Mar 2025) |
-| 🎨 **Head of Design** | Backslash & Rotaract (Nov 2023 – Mar 2025) |
+<img src="https://github-profile-trophy.vercel.app/?username=OJASVINMARWAH&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
-</div>
+</p>
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
-## 📈 Contribution Activity
+# 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
 
-[![Ojasvin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OJASVINMARWAH&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://raw.githubusercontent.com/OJASVINMARWAH/OJASVINMARWAH/output/github-snake-dark.svg"/>
 
-</div>
-
----
-
-<!-- GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=OJASVINMARWAH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+</p>
 
 ---
 
-<!-- SNAKE ANIMATION -->
-## 🐍 Contribution Snake
+# 📫 Connect
 
-<div align="center">
+<p align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OJASVINMARWAH/OJASVINMARWAH/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OJASVINMARWAH/OJASVINMARWAH/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/OJASVINMARWAH/OJASVINMARWAH/output/github-snake.svg" />
-</picture>
-
-> 💡 **Note:** To enable the snake animation, follow [these steps](https://github.com/Platane/snk) to set up the GitHub Action in your profile repo.
-
-</div>
-
----
-
-<!-- CONNECT SECTION -->
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/ojasvin-marwah-491900286/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="mailto:omarwah_be23@thapar.edu">
-  <img src="https://img.shields.io/badge/Email-Drop_a_Mail!-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://YOUR_PORTFOLIO_HERE">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Now!-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
+</p>
 
-> *"Without data, you're just another person with an opinion."* — W. Edwards Deming
+---
 
-<br/>
+<div align="center">
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+> *"Code. Learn. Build. Repeat."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:7C3AED,50:312E81,100:0F172A"/>
 
 </div>
