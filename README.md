@@ -27,7 +27,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2600&pause=900&color=C084FC&center=true&vCenter=true&width=780&height=55&lines=Namaste%2C+I+am+Ojasvin+Marwah;AI+%2F+ML+Engineer+%7C+Full-Stack+Developer;Final-Year+CSE+%40+TIET+%7C+CGPA+9.23%2F10;Building+Multi-Agent+AI+Systems+%26+Automation+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2600&pause=900&color=C084FC&center=true&vCenter=true&width=780&height=55&lines=Namaste%2C+I+am+Ojasvin+Marwah;AI+%2F+ML+Engineer+%7C+Full-Stack+Developer;Final-Year+CSE+%40+TIET+%7C+CGPA+9.09%2F10;Building+Multi-Agent+AI+Systems+%26+Automation+Pipelines" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -63,7 +63,7 @@
 ```bash
 ojasvin@thapar:~$ whoami
 > Ojasvin Marwah — Final-Year B.Tech CSE @ Thapar Institute of Engineering & Technology (TIET), Patiala
-> CGPA: 9.23 / 10
+> CGPA: 9.09 / 10
 
 ojasvin@thapar:~$ cat focus_areas.txt
 > Artificial Intelligence · Machine Learning · Deep Learning · Computer Vision · NLP
@@ -93,7 +93,7 @@ ojasvin@thapar:~$ ./run current_status.sh
 <tr>
 <td width="60%" valign="top">
 
-I'm a final-year Computer Science and Engineering student at **Thapar Institute of Engineering & Technology (TIET), Patiala**, graduating with a **9.23/10 CGPA**. My work sits at the intersection of **applied AI/ML and production software engineering** — I don't just train models, I ship the pipelines, APIs, and interfaces around them.
+I'm a final-year Computer Science and Engineering student at **Thapar Institute of Engineering & Technology (TIET), Patiala**, graduating with a **9.09/10 CGPA**. My work sits at the intersection of **applied AI/ML and production software engineering** — I don't just train models, I ship the pipelines, APIs, and interfaces around them.
 
 Across two data-analytics internships and a stack of independent + research projects, I've moved 600,000+ records through automated pipelines, built multi-agent AI systems for e-commerce, and pushed a computer-vision fault-detection model to 97%+ accuracy. Outside of code, I've led a Toastmasters chapter and two design teams — so I care as much about how something communicates as how it computes.
 
@@ -102,7 +102,7 @@ Across two data-analytics internships and a stack of independent + research proj
 
 <table width="100%">
 <tr><td><b>🎓 Education</b></td><td>B.Tech CSE, TIET Patiala</td></tr>
-<tr><td><b>📊 CGPA</b></td><td>9.23 / 10</td></tr>
+<tr><td><b>📊 CGPA</b></td><td>9.09 / 10</td></tr>
 <tr><td><b>📍 Status</b></td><td>Final-Year, Open to Roles</td></tr>
 <tr><td><b>🧠 Core Stack</b></td><td>Python · PyTorch · React</td></tr>
 <tr><td><b>🏆 Highlight</b></td><td>Hackathon Finalist</td></tr>
@@ -368,7 +368,7 @@ Rotaract Club
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CGPA-9.23%2F10-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-9.09%2F10-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hackathon-Finalist-C084FC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Research-Experience-22D3EE?style=for-the-badge"/>
 <br/>
@@ -382,7 +382,7 @@ Rotaract Club
 ## 🛰️ Timeline
 
 <table width="100%">
-<tr><td width="12%" align="center"><b>●</b></td><td width="18%"><b>Ongoing</b></td><td width="70%">Final-Year B.Tech CSE @ TIET Patiala — CGPA 9.23/10</td></tr>
+<tr><td width="12%" align="center"><b>●</b></td><td width="18%"><b>Ongoing</b></td><td width="70%">Final-Year B.Tech CSE @ TIET Patiala — CGPA 9.09/10</td></tr>
 <tr><td align="center">│</td><td></td><td></td></tr>
 <tr><td align="center"><b>●</b></td><td><b>Leadership</b></td><td>President, Thapar Dera Bassi Toastmasters Club · Design Head, Backslash Computing Society · Design Head, Rotaract Club</td></tr>
 <tr><td align="center">│</td><td></td><td></td></tr>
