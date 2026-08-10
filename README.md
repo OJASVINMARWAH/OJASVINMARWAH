@@ -1,12 +1,5 @@
 # OJASVINMARWAH
-
-> Recruiter-friendly proof and contact path.
-
-**Theme:** GitHub · **Style:** Detailed · **Agent:** Full-Stack Engineer
-
-## Header
-> Editing this section in the inspector.
-Hi, I'm **OJASVINMARWAH**. This README is tuned for **get hired** with a GitHub visual system.
+Hi, I'm **OJASVINMARWAH**.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=OJASVINMARWAH&theme=github-dark&mode=light" />
